@@ -6,6 +6,6 @@ Google's Firebase is a cloud-based database hosting service that will set up a d
 
 The data storage ability of Firebase make it a perfect fit for React. A persistent, real-time backend for your application to plug in to!
 
-https://css-tricks.com/intro-firebase-react/
+https://firebase.google.com/
 
 
